@@ -1,5 +1,6 @@
-/* Rewrite the following code from the previous exercise to be shorter, by declaring the variables together on the same line, and 
- * by using the special assignment operators (e.g., +=, -=, *=, and /=) as appropriate.
+/* 
+Rewrite the following code from the previous exercise to be shorter, by declaring the variables together on the same line, and 
+by using the special assignment operators (e.g., +=, -=, *=, and /=) as appropriate.
  */
 public class FirstSecond2 {
 
