@@ -24,5 +24,5 @@ public class NumberTriangle {
           numberPyramid++;
           System.out.println();
       }
-  }
+   }
 }
